@@ -1,0 +1,11 @@
+{
+  "name": "buyer-profile",
+  "version": "0.0.0",
+  "dependencies": {
+    "aura": "*",
+	"backbone": "1.0.0",
+	"bootstrap": "3.0.0",
+	"less": "1.4.1",
+	"font-awesome": "3.2.1"
+  }
+}
